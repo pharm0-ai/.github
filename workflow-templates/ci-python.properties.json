@@ -1,0 +1,7 @@
+{
+  "name": "Pharm0 — Python CI",
+  "description": "Lint, typecheck, test, gitleaks for Python repos in the pharm0-ai org.",
+  "iconName": "octicon code",
+  "categories": ["Python", "Continuous integration"],
+  "filePatterns": ["pyproject.toml"]
+}

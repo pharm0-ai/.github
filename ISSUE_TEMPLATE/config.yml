@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability
+    url: mailto:security@pharm0.ai
+    about: Report privately. Do not file a public issue for security vulnerabilities.
+  - name: General contact
+    url: mailto:hello@pharm0.ai
+    about: For anything not covered by a specific repo's issue templates.

@@ -1,0 +1,6 @@
+{
+  "name": "Pharm0 — gitleaks",
+  "description": "Detect secrets in the working tree and full git history. Runs on PR, push, and weekly.",
+  "iconName": "octicon shield",
+  "categories": ["Security"]
+}

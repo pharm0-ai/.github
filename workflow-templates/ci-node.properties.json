@@ -1,0 +1,7 @@
+{
+  "name": "Pharm0 — Node CI",
+  "description": "Lint, typecheck, build, gitleaks for Node/TypeScript repos in the pharm0-ai org.",
+  "iconName": "octicon code",
+  "categories": ["JavaScript", "TypeScript", "Continuous integration"],
+  "filePatterns": ["package.json"]
+}
